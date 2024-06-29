@@ -6,3 +6,4 @@
 const dashedText = "background-color";
 console.log(convertToCamelCase(dashedText)); // "backgroundColor"
 ```
+Rattanon Tunwittaya
